@@ -1,0 +1,8 @@
+{
+  "date_utc": "2026-11-13T11:35:06.142964Z",
+  "api": "https://api.ncbi.nlm.nih.gov/datasets/v2",
+  "input": "/Users/alexis/Documents/lido/atkins_vanDorp/NCBI-data-analysis/bv-brc/custom_fetcher/accession_genomes.acc",
+  "input_sha256": "98a33eafd1e4cb3c38f828b644a9cac0cde857fb460a4559eeb478bfecbcf62b",
+  "replacement_policy": "any",
+  "script_sha256": "2202de5ab910aa7ee79ee246c1e622094ee9dede64df60d7d172ac9b87917f35"
+}

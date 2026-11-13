@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+chlamydia_analysis/*
+mobile-elements/microbigge.tsv
+*/conda/*
+results/*
+*nextflow*

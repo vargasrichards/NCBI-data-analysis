@@ -1,0 +1,9 @@
+requested	status	resolved	resolution	note	paired_accession	assembly_name	organism	assembly_level	release_date	revision_identical_flag
+GCF_000006785.2	ok	GCF_000006785.2	exact		GCA_000006785.2	ASM678v2	Streptococcus pyogenes M1 GAS	Complete Genome	2014-04-01	
+GCA_000006785.2	ok	GCA_000006785.2	exact		GCF_000006785.2	ASM678v2	Streptococcus pyogenes M1 GAS	Complete Genome	2014-04-01	
+GCF_000006785.1	replaced	GCF_000006785.2	newer_version_same_db	GCF_000006785.1 retired; using GCF_000006785.2	GCA_000006785.2	ASM678v2	Streptococcus pyogenes M1 GAS	Complete Genome	2014-04-01	True
+GCA_000006785.1	replaced	GCA_000006785.2	newer_version_same_db	GCA_000006785.1 retired; using GCA_000006785.2	GCF_000006785.2	ASM678v2	Streptococcus pyogenes M1 GAS	Complete Genome	2014-04-01	True
+GCA_000000000.1	not_found			no live record or live successor at NCBI (retired/withdrawn/typo)						
+GCF_000007045.1	ok	GCF_000007045.1	exact		GCA_000007045.1	ASM704v1	Streptococcus pneumoniae R6	Complete Genome	2002-11-25	
+GCF_000007045	invalid			no version suffix (e.g. .1); BV-BRC accessions are normally versioned						
+FOO	invalid			not a GCA_/GCF_ accession						
